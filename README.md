@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Caetanocc
-- 👀 I’m interested in C#, Python and data science
+- 👀 I’m interested in C#, Python and data science, JS, node.js
 - 🌱 I’m currently learning ML, R, Python
-- 💞️ I’m looking to collaborate on Oracle, Python, R
+- 💞️ I’m looking to collaborate on Oracle, Python, R, web design
 - 📫 How to reach me, by e-mail: claudiomiro.silva2@etec.sp.gov.br
 
 <!---
